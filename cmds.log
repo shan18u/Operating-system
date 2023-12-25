@@ -1,0 +1,331 @@
+    1  sudo apt install gcc
+    2  sudo apt install make
+    3  sudo snap install clion --classic 
+    4  clion.sh
+    5  PWD
+    6  pwd
+    7  cd~
+    8  cd ~
+    9  cd Desktop/
+   10  ls -latr ; mkdir cs149
+   11  git init
+   12  sudo apt install git
+   13  git init
+   14  git remote add origin 
+   15  ls
+   16  git remote add origin git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   17  git config --global user.email "shivansh.chhabra@sjsu.edu"
+   18  git config --global user.name "ShivanshChhabra"
+   19  mkdir WS1
+   20  cd WS1
+   21  git add
+   22  git add .
+   23  wget -O out.pdf https://tinyurl.com/yy94jltt
+   24  ls -latr
+   25  history > cmds.log
+   26  git add cmds.log *.c
+   27  git commit -m "First commit" -a
+   28  git push -u origin main
+   29  gcc --version
+   30  ls
+   31  ls Desktop
+   32  ls WS1 
+   33  cd WS1
+   34  lw -latr
+   35  ls -latr
+   36  git init
+   37  cd WS1
+   38  ls
+   39  sudo apt update
+   40  sudo apt install -y build-essential linux-headers-$(uname -r)
+   41  ./LAB1_15
+   42  ./LAB1_15.c
+   43  ls -1
+   44  chmod +x LAB1_15.c
+   45  ls -1
+   46  ./LAB1_15.c
+   47  chmod +x LAB1_16.c LAB1_17.c
+   48  ls -1
+   49  ./LAB1_15
+   50  ./LAB1_15.c
+   51  ls 
+   52  ls Desktop
+   53  git add WS1
+   54  CD Desktop
+   55  cd Desktop
+   56  ls
+   57  git add WS1
+   58  git commmit -m "WS1 Folder" -a
+   59  git commit -m "WS1 Folder" -a
+   60  git push
+   61  git init
+   62  git add
+   63  git add .
+   64  git remote add origin git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   65  ls
+   66  git init
+   67  cd WS1
+   68  git add .
+   69  ls -latr
+   70  git add cmds.log *.c
+   71  git commit -m "WS1" -a
+   72  git branch
+   73  git status
+   74  git init
+   75  git status
+   76  git add -A
+   77  git commit -m "WS1 Files" -a
+   78  git push origin master
+   79  git push -u origin master
+   80  git remote add origin git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   81  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   82  ls
+   83  ls status
+   84  git status
+   85  it remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   86  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   87  git push origin master
+   88  ls 
+   89  ls Desktop
+   90  ls
+   91  cd Desktop
+   92  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   93  ls
+   94  ls -a
+   95  ls
+   96  cd cs149
+   97  ls -a
+   98  git rm -rf -- cache .WS1
+   99  git rm --cached -r WS1
+  100  git commit "Delete"
+  101  git commit -m "Delete"
+  102  git push origin
+  103  git status
+  104  git branch
+  105  mkdir WS1
+  106  ls 
+  107  rm -fr WS1
+  108  ls
+  109  mkdir WS1
+  110  cd WS1
+  111  git add .
+  112  ls
+  113  ls -latr
+  114  history > cmds.log
+  115  git add cmds.log *.c
+  116  git add -f cmds.log *.c
+  117  git commit -m "WS1 Files" -a
+  118  git branch
+  119  git push -u origin master
+  120  ls
+  121  git add out.pdf cmake-build-debug
+  122  git commit -m "WS1 Files" -a
+  123  git status
+  124  git add .
+  125  git push
+  126  ls Desktop
+  127  cd
+  128  cd Desktop
+  129  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  130  ls
+  131  cd cs149
+  132  git add WS1
+  133  git commit -m "WS1 Added" 
+  134  git push
+  135  mkdir WS1
+  136  ls 
+  137  WS1
+  138  ls WS1
+  139  cd WS1
+  140  git add .
+  141  ls -latr
+  142  history > cmds.log
+  143  history > cmds.log *.c
+  144  git add cmds.log *.c
+  145  git commit -m "ws1  commit" -a
+  146  git status
+  147  ls
+  148  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  149  ls
+  150  ls Desktop
+  151  ls
+  152  ls Desktop
+  153  ls cs149
+  154  cd cs149
+  155  ls
+  156  ls CLionProjects
+  157  ls WS1
+  158  cd WS1
+  159  ls
+  160  ls Desktop cs149 
+  161  ls CS149
+  162  git clone git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git outp
+  163  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git outc
+  164  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git outputc
+  165  git init
+  166  ls
+  167  ls Desktop 
+  168  cd cs149
+  169  cd CS149
+  170  git remote origin
+  171  ls -latr
+  172  ls 
+  173  cd Desktop
+  174  cd cs149
+  175  .LAB1_15.c
+  176  ls
+  177  cd WS1
+  178  ls
+  179  cd LAB1_15.c
+  180  pwd LAB1_15.c
+  181  LAB1_15.c
+  182  gcc -o LAB1_15.c
+  183  ./LAB1_15.c
+  184  cd Desktop
+  185  cd cs149
+  186  cd WS1
+  187  ls
+  188  gcc -o LAB1_15 LAB1_15.c
+  189  ./LAB1_15
+  190  gcc -o LAB1_16 LAB1_16.c
+  191  LAB1_16
+  192  ./LAB1_16
+  193  gcc -o LAB1_17 LAB1_17.c
+  194  ./LAB1_17
+  195  d Desktop
+  196  cd Desktop
+  197  cd cs149
+  198  cd WS1
+  199  gcc -c LAB1_15.c -o LAB1_15.o
+  200  gcc -c LAB1_16.c -o LAB1_16.o
+  201  gcc -c LAB1_17.c -o LAB1_17.o
+  202  gcc -c LAB1_18.c -o LAB1_18.o
+  203  gcc -c LAB1_19.c -o LAB1_19.o
+  204  gcc -c LAB1_20.c -o LAB1_20.o
+  205  gcc LAB1_15.o LAB1_16.o LAB1_17.o LAB1_18.o LAB1_19.o LAB1_20.o 
+  206  ./LAB1_15
+  207  ./LAB1_16
+  208  ./LAB1_18
+  209  gcc -c LAB1_18.c -o LAB1_18.o
+  210  gcc LAB1_18.o
+  211  ./LAB1_18
+  212  ./LAB1_15
+  213  ./LAB1_20
+  214  LAB1_18.o
+  215  ./LAB1_19
+  216  ./LAB1_19.c
+  217  gcc -o Lab1_17 LAB1_17.c
+  218  ./Lab1_17
+  219  gcc -o Lab1_18 LAB1_18.c
+  220  ./Lab1_18
+  221  gcc -o Lab1_20 LAB1_20.c
+  222  ./Lab1_20
+  223  history > outputcmds.log
+  224  cd WS1
+  225  cd Desktop
+  226  cd cs149
+  227  cd WS1
+  228  gcc -c LAB1_15.c -o LAB1_15.o
+  229  gcc -c LAB1_16.c -o LAB1_16.o
+  230  gcc -c LAB1_17.c -o LAB1_17.o
+  231  gcc -c LAB1_18.c -o LAB1_18.o
+  232  gcc -c LAB1_19.c -o LAB1_19.o
+  233  gcc -c LAB1_20.c -o LAB1_20.o
+  234  gcc LAB1_15.o LAB1_16.o LAB1_17.o LAB1_18.o LAB1_19.o LAB1_20.o 
+  235  ./ LAB1_15 
+  236  ./LAB1_15
+  237  .LAB1_16
+  238  ./Lab1.16
+  239  ./LAB1_16
+  240  ./LAB1_17
+  241  ./LAB1_18
+  242  ./LAB1_19
+  243  LAB1_20
+  244  ./LAB1_20
+  245  ./Lab1_15
+  246  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  247  ls
+  248  git remote add https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  249  git remot add git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  250  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  251  git config username
+  252  git username
+  253  git config --global user.email "shivansh.chhabra@sjsu.edu"
+  254  git config --global user.name "ShivanshChhabra"
+  255  date
+  256  pwd
+  257  cd ~
+  258  cd Desktop/
+  259  ls-latr
+  260  ls -latr
+  261  echo $?
+  262  man ps
+  263  ps aux
+  264  top
+  265  history > worksheet2.log
+  266  tail worksheet2.log
+  267  cat worksheet.log
+  268  cat worksheet2.log
+  269  ls
+  270  cd cs149
+  271  ls
+  272  cd WS2
+  273  ls
+  274  mkdir WS2
+  275  cd WS1
+  276  cd WS2
+  277  git add .
+  278  ls
+  279  gcc LAB2_29.c -o LAB2_29 -lm
+  280  ls
+  281  cd cs149
+  282  cd WS2
+  283  ls
+  284  gcc LAB2_29.c -o LAB2_29 -lm
+  285  ls
+  286  gcc LAB2_29.c -o LAB2_29 -L/usr/lib -lm
+  287  rm LAB2_29
+  288  gcc LAB2_29.c -o LAB2_29 -lm
+  289  ./LAB2_29
+  290  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  291  ls
+  292  cd Desktop/
+  293  cd WS2
+  294  ls
+  295  cd cs149/WS2
+  296  git add .
+  297  git add worksheet2.log *.c
+  298  git commit -m "WS2 commit" -a
+  299  git push -u origin master
+  300  git pull origin master
+  301  git push -u origin master
+  302  git pull origin master
+  303  git config pull.rebase false
+  304  git push -u origin master
+  305  git push --help
+  306  git push -u origin
+  307  git pull origin master
+  308  git push -u origin master
+  309  ls
+  310  cd worksheet2.log
+  311  <pre>git add worksheet2.log
+  312  git add worksheet2.log
+  313  -f
+  314  git add -f worksheet2.log
+  315  git commit -m "worksheet2.log" -a
+  316  git push -u origin master
+  317  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  318  git init
+  319  ls
+  320  cd Desktop/cs149
+  321  ls
+  322  cd A1
+  323  ls
+  324  cd test ls
+  325  cd test 
+  326  ls
+  327  cd ..
+  328  ls
+  329  git add .
+  330  ls -latr
+  331  history > cmds.log
