@@ -3,8 +3,6 @@ Name:
 Kean Onn Lee,
 Shivansh Chhabra
 
-Emails: keanonn.lee@sjsu.edu, shivansh.chhabra@sjsu.edu
-
 
 Modified:
 09/11/23
