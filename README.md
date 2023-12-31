@@ -2,18 +2,8 @@
 
 Name:
 
-Shivansh Chhabra, Kean Onn Lee
+Shivansh Chhabra, Kean Lee
 
-Emails: shivansh.chhabra@sjsu.edu, keanonn.lee@sjsu.edu
-
-
-Modified:
-
-09/24/23
-
-Creation Date:
-
-09/19/23
 
 ## Description
 
