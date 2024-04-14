@@ -13,9 +13,9 @@
    13  git init
    14  git remote add origin 
    15  ls
-   16  git remote add origin git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
-   17  git config --global user.email "shivansh.chhabra@sjsu.edu"
-   18  git config --global user.name "ShivanshChhabra"
+   16  git remote add origin git clone https://@bitbucket.org//cs149.git
+   17  git config --global user.email 
+   18  git config --global user.name 
    19  mkdir WS1
    20  cd WS1
    21  git add
@@ -61,7 +61,7 @@
    61  git init
    62  git add
    63  git add .
-   64  git remote add origin git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   64  git remote add origin git clone https://@bitbucket.org/cs149.git
    65  ls
    66  git init
    67  cd WS1
@@ -77,19 +77,19 @@
    77  git commit -m "WS1 Files" -a
    78  git push origin master
    79  git push -u origin master
-   80  git remote add origin git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
-   81  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   80  git remote add origin git clone https://@bitbucket.org/cs149/cs149.git
+   81  git remote add origin https://@bitbucket.org/cs149/cs149.git
    82  ls
    83  ls status
    84  git status
-   85  it remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
-   86  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   85  it remote add origin https://@bitbucket.org/cs149/cs149.git
+   86  git remote add origin https://@bitbucket.org/cs149/cs149.git
    87  git push origin master
    88  ls 
    89  ls Desktop
    90  ls
    91  cd Desktop
-   92  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+   92  git clone https://@bitbucket.org/cs149/cs149.git
    93  ls
    94  ls -a
    95  ls
@@ -126,7 +126,7 @@
   126  ls Desktop
   127  cd
   128  cd Desktop
-  129  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  129  git clone https://@bitbucket.org/cs149/cs149.git
   130  ls
   131  cd cs149
   132  git add WS1
@@ -145,7 +145,7 @@
   145  git commit -m "ws1  commit" -a
   146  git status
   147  ls
-  148  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  148  git clone https://@bitbucket.org/cs149/cs149.git
   149  ls
   150  ls Desktop
   151  ls
@@ -159,9 +159,9 @@
   159  ls
   160  ls Desktop cs149 
   161  ls CS149
-  162  git clone git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git outp
-  163  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git outc
-  164  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git outputc
+  162  git clone git clone https://@bitbucket.org/cs149/cs149.git outp
+  163  git clone https://@bitbucket.org/cs149/cs149.git outc
+  164  git clone https://@bitbucket.org/cs149/cs149.git outputc
   165  git init
   166  ls
   167  ls Desktop 
@@ -243,15 +243,15 @@
   243  LAB1_20
   244  ./LAB1_20
   245  ./Lab1_15
-  246  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  246  git remote add origin https://@bitbucket.org/cs149/cs149.git
   247  ls
-  248  git remote add https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
-  249  git remot add git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
-  250  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  248  git remote add https://@bitbucket.org/cs149/cs149.git
+  249  git remot add git clone https://@bitbucket.org/cs149/cs149.git
+  250  git remote add origin https://@bitbucket.org/cs149/cs149.git
   251  git config username
   252  git username
-  253  git config --global user.email "shivansh.chhabra@sjsu.edu"
-  254  git config --global user.name "ShivanshChhabra"
+  253  git config --global user.email ""
+  254  git config --global user.name ""
   255  date
   256  pwd
   257  cd ~
@@ -287,7 +287,7 @@
   287  rm LAB2_29
   288  gcc LAB2_29.c -o LAB2_29 -lm
   289  ./LAB2_29
-  290  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  290  git remote add origin https://@bitbucket.org/cs149/cs149.git
   291  ls
   292  cd Desktop/
   293  cd WS2
@@ -314,7 +314,7 @@
   314  git add -f worksheet2.log
   315  git commit -m "worksheet2.log" -a
   316  git push -u origin master
-  317  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  317  git remote add origin https://@bitbucket.org/cs149/cs149.git
   318  git init
   319  ls
   320  cd Desktop/cs149
@@ -391,7 +391,7 @@
   391  git branch
   392  git push -u origin master
   393  git push -u origin
-  394  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  394  git remote add origin https://@bitbucket.org/cs149/cs149.git
   395  git init
   396  git status
   397  cd ..
@@ -430,7 +430,7 @@
   430  git push master
   431  git push origin
   432  git rm 
-  433  git clone https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  433  git clone https://@bitbucket.org/cs149/cs149.git
   434  pwd
   435  ls
   436  cs 149
@@ -491,7 +491,7 @@
   491  mkdir WS4
   492  cd WS4
   493  git init
-  494  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  494  git remote add origin https://@bitbucket.org/cs149/cs149.git
   495  ls
   496  git status
   497  pwd
@@ -527,8 +527,8 @@
   527  git config pull.rebase false
   528  git push origin master
   529  git status
-  530  git config --global user.email "shivansh.chhabra@sjsu.edu"
-  531  git config --global user.name "Shivansh Chhabra"
+  530  git config --global user.email ""
+  531  git config --global user.name " "
   532  git log
   533  git push origin master
   534  git pull origin master
@@ -589,7 +589,7 @@
   589  git status
   590  git commit -m "WS5 Files"
   591  git push -u otigin master
-  592  git remote add origin https://Shivansh55@bitbucket.org/shivanshcs149/cs149.git
+  592  git remote add origin https://@bitbucket.org/cs149/cs149.git
   593  git push -u otigin master
   594  git push -u origin master
   595  ls
