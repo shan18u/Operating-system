@@ -1,7 +1,6 @@
 /**
 * Description: This module performs parallel matrix multiplication of two input matrices (A and W)
 * and prints the result matrix along with the runtime in seconds
-* Author names: Shivansh Chhabra, Kean lee
 * Last modified date: 09/24/2023
 * Creation date: 09/19/ 2023
 **/
