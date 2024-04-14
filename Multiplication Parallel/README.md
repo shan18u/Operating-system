@@ -2,8 +2,6 @@
 
 Name:
 
-Shivansh Chhabra, Kean Lee
-
 
 ## Description
 
